@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class testsix {
+public class PQ {
 	public static class PriorityQueue {
 		Queue<Integer> queue;
 		int max = Integer.MIN_VALUE;
